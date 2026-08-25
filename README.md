@@ -41,6 +41,7 @@
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyusha-kesare-4bb832250)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:piyushakesare@gmail.com)
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/PiyushaKesare/PiyushaKesare">PIYUSHA KESARE</a></i></p>
