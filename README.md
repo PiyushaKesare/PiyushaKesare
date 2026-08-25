@@ -43,11 +43,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyusha-kesare-4bb832250)
 
 ---
-
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PiyushaKesare&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushaKesare&layout=compact&theme=radical)
-
 <p align="center"><i>⭐️ From <a href="https://github.com/PiyushaKesare/PiyushaKesare">PIYUSHA KESARE</a></i></p>
 
 [def]: https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushaKesare&layout=compact&theme=radical
